@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gillan-krishna
 - 👀 I’m interested in solving challenging problems using ML
 - 🌱 I’m currently learning Federated learning/ privacy enhanching technologies
-- 💞️ I’m looking to collaborate on anything which creates impact on dailyy life, however small
+- 💞️ I’m looking to collaborate on anything which creates impact on dailly life, however small
